@@ -9,7 +9,7 @@ A Microsoft Power BI dashboard showing telco customer churn data and provides in
 
 - **Data:** This is a customer data of a  fictional telco company. Each row represents a customer; and each column contains customer’s attributes such as: customer ID, demographics, customer account information, and subscribed services. The last coloumn represents whether the customer churned or not. The data source is IBM. You can learn more about the [data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-- **Power BI:** The dashboard is made up of visualization pages, and each page provides an analysis of the telco customer churn data based on these categories: demographics, customer account information, subscribed services, and key influencers. The distinct data cleaning and analysis tools utilized are power query editor, slicer, drill down, and information button.
+- **Power BI:** The dashboard is made up of visualization pages, and each page provides an analysis of the telco customer churn data based on these categories: demographics, customer account information, subscribed services, and key influencers. 
 
 
 # Visualization:
