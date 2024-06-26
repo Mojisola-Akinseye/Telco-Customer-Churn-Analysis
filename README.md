@@ -9,7 +9,7 @@ A Microsoft Power BI dashboard showing telco customer churn data and provides in
 
 - **Data:** This directory contains the customer data ofa  fictional telco company. Each row represents a customer; and each column contains customer’s attributes such as: customer ID, demographics, customer account information, and subscribed services. The last coloumn represents whether the customer churned or not. The data source is IBM. You can learn more about the dataset here: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-- **Power BI:** The dashboard is made up of insight pages, and each page provides an analysis of the telco customer churn data based on these categories: demographics, customer account information, subscribed services, and key influencers.
+- **Power BI:** The dashboard is made up of visualization pages, and each page provides an analysis of the telco customer churn data based on these categories: demographics, customer account information, subscribed services, and key influencers. The following distinct data cleaning and analysis tools are used: power query editor, slicer, drill down, and information button.
 
 
 ## Visualization:
@@ -25,7 +25,7 @@ A Microsoft Power BI dashboard showing telco customer churn data and provides in
 ![Telco Customer Churn Analysis 5](https://github.com/Mojisola-Akinseye/Telco-Customer-Churn-Analysis/assets/173897221/f2629729-101f-4e14-984e-5f7d3d897db6)
 
 
-## Insights:
+## Insight:
 
 - Month-to-month contracts are the top churn influencers, with a 6.32 times higher likelihood of churn compared to one-year and two-year contracts
 
@@ -44,3 +44,18 @@ A Microsoft Power BI dashboard showing telco customer churn data and provides in
 - As the tenure decreases, the likelihood of churn status increases
 
 - Gender has no impact on the churn status
+
+
+## Recommendation: 
+
+- Differentiate the business from competitors by enhancing service quality, offering competitive pricing, and creating attractive package deals to attract and hook new customers
+
+- Enhance the long-term subscription package with incentives and loyalty programs to encourage customers to upgrade to longer commitments over month-to-month contracts
+
+- Improve the online security systems to build trust and confidence among customers
+
+- Recruit and train a dedicated technical support team to provide personalized assistance to customer who subscribe to phone and internet services
+
+- Provide customers with a variety of reliable internet service options, aside from DSL and fiber optic
+
+- Evaluate and ameliorate the electronic check payment method to improve the overall user experience
