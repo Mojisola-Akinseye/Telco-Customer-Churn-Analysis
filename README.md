@@ -11,6 +11,9 @@ A Microsoft Power BI dashboard showing telco customer churn data and provides in
 
 - **Power BI:** The dashboard is made up of insight pages, and each page provides an analysis of the telco customer churn data based on these categories: demographics, customer account information, subscribed services, and key influencers.
 
+
+## Visualization:
+
 ![Telco Customer Churn Analysis](https://github.com/Mojisola-Akinseye/Telco-Customer-Churn-Analysis/assets/173897221/539538b6-e672-40a4-af29-7e08677a04f7)
 
 ![Telco Customer Churn Analysis 2](https://github.com/Mojisola-Akinseye/Telco-Customer-Churn-Analysis/assets/173897221/16fd5c84-d8ad-425e-a95f-e7bc280c5052)
