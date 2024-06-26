@@ -25,7 +25,22 @@ A Microsoft Power BI dashboard showing telco customer churn data and provides in
 ![Telco Customer Churn Analysis 5](https://github.com/Mojisola-Akinseye/Telco-Customer-Churn-Analysis/assets/173897221/f2629729-101f-4e14-984e-5f7d3d897db6)
 
 
+## Insights:
 
+- Month-to-month contracts are the top churn influencers, with a 6.32 times higher likelihood of churn compared to one-year and two-year contracts
 
+- When online security is not included, churn likelihood is 3.63 times higher
 
+- Lack of tech support leads to a 3.51 times higher likelihood of churn
 
+- Fiber optic internet service leads to a 2.89 times higher likelihood of churn compared to DSL
+
+- Electronic check payment method results in a 2.65 times higher likelihood of churn compared to other payment methods
+
+- When the monthly charges are between 68.8 to 106.75, churn status is 2.35 times more likely to be churned compared to lesser monthly charges
+
+- When customers do not have dependents, churn status is 2.02 times more likely to be churned
+
+- As the tenure decreases, the likelihood of churn status increases
+
+- Gender has no impact on the churn status
